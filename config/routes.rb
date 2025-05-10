@@ -170,6 +170,7 @@ Rails.application.routes.draw do
   resources :credit_cards, except: :index
   resources :loans, except: :index
   resources :cryptos, except: :index
+  resources :jankies, except: :index
   resources :other_assets, except: :index
   resources :other_liabilities, except: :index
 
