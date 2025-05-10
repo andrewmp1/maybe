@@ -79,3 +79,11 @@ crypto:
   currency: USD
   accountable_type: Crypto
   accountable: one
+
+janky:
+  family: dylan_family
+  name: Janky Asset
+  balance: 7500
+  currency: USD
+  accountable_type: Janky
+  accountable: one
